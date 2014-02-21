@@ -1,6 +1,7 @@
 package com.openjx.openrtb.api.request;
 
 import com.openjx.openrtb.api.Extensions;
+import com.openjx.openrtb.api.consts.BannerAdTypes;
 import com.openjx.openrtb.api.consts.ConnectionTypes;
 
 /**
