@@ -2,6 +2,7 @@
 .metadata
 .project
 .gradle
+.classpath
 bin/
 target/
 tmp/
