@@ -1,4 +1,4 @@
 openjx
 ======
 
-RTB Framework written in pure Java inspired by rtbkit
+RTB bidder framework written in pure Java.
